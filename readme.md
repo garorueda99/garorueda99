@@ -12,4 +12,9 @@ I like challenges and pushing myself out of my comfort zone
 ### My Values:
 
 - 💡 Curiosity. A lover of learning.
--
+- 👑 Honestity and Integrity
+
+### My Goals:
+
+- Write clear and maintainable code
+- Create dependable products
