@@ -6,8 +6,8 @@ I like challenges and pushing myself out of my comfort zone
 
 ### Currently Learning:
 
-- 🔥 Next.js
-- 🔥 TypeScript
+- 🔥 CI / CD
+- 🔥 Go
 
 ### My Values:
 
